@@ -226,6 +226,7 @@ def clear_session():
     st.session_state.last_chat_time = 0
     st.rerun()
 
+
 def display_welcome():
     """Display professional welcome screen"""
     
